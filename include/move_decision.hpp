@@ -1,0 +1,4 @@
+#ifndef MOVE_DECISION_H
+#define MOVE_DECISION_H
+
+#endif // MOVE_DECISION_H
